@@ -1,0 +1,6 @@
+{
+  "name": "Diwali Surprise Experience",
+  "description": "A premium, interactive digital Diwali surprise website crafted with glowing diyas, festive light decorations, realistic gift hamper, immersive night-sky fireworks, personalized memories gallery, and a handwritten letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
